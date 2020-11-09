@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jordan</h1>
+<h3 align="center">A Mecanical Designer from Canada</h3>
 
 <!--
 **misterjtc/misterjtc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbn&style=flat-square" alt="misterjtc" /> </p>
