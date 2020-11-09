@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gilbn&style=flat-square" alt="misterjtc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=misterjtc&style=flat-square" alt="misterjtc" /> </p>
