@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jordan</h1>
 <h3 align="center">A Mechanical Engineer from Canada</h3>
 
-[comment] - 📝 You can view more information about me, what I do for fun and my personal and professional projects at [https://jordancook.dev/](https://jordancook.dev/)
-
+<!-- - 📝 You can view more information about me, what I do for fun and my personal and professional projects at [https://jordancook.dev/](https://jordancook.dev/)
+-->
 - 📫 You can reach me at **jordan@jordancook.dev**
 
 <!--
